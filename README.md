@@ -1,3 +1,5 @@
+<!-- Profile README -->
+
 # Hi, I'm Haneen 👋
 
 I'm a **Web Developer** with a strong passion in **Frontend and WordPRess** for building clean, user-focused web interfaces and turning ideas into real, usable products. I enjoy working at the intersection of **design and development**, and I’m constantly learning how to create experiences that are not just functional, but meaningful.
