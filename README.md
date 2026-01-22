@@ -52,7 +52,7 @@ A personal portfolio website to showcase my skills, projects, and experience.
 **Tech used:**  
 React, Tailwind CSS
 
-# website link: https://haneen-abdelhaleem.netlify.app/
+website link: https://haneen-abdelhaleem.netlify.app/
 
 ---
 
